@@ -11,3 +11,11 @@ p {
     color: black; 
     font-family: Tahoma; 
 }
+
+table, th, td {
+    border: 2px solid black;
+}
+
+th, tr {
+    text-align: center;
+}
